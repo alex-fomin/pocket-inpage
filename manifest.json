@@ -1,6 +1,6 @@
 {
     "name": "Add to Pocket",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Adds an article to pocket (http://getpocket.com). Indicates whether the current page is in Pocket",
     "background": {
         "scripts": [
