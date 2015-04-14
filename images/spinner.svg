@@ -1,0 +1,2068 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="304"
+   height="38"
+   viewBox="0 0 800 100"
+   preserveAspectRatio="xMidYMid"
+   class="uil-spin"
+   id="svg6162"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="spinner.svg">
+  <metadata
+     id="metadata6236">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6234" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1549"
+     inkscape:window-height="1009"
+     id="namedview6232"
+     showgrid="false"
+     inkscape:zoom="6.2105263"
+     inkscape:cx="257.95906"
+     inkscape:cy="19"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6162" />
+  <g
+     id="g6802"
+     inkscape:export-filename="/home/sane/Downloads/src/pocket-extensions/pocket-inpage/images/loader/1-19.png"
+     inkscape:export-xdpi="45"
+     inkscape:export-ydpi="45">
+    <rect
+       id="rect6164"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+  <rect
+     style="fill:none"
+     x="35.355339"
+     y="106.06602"
+     width="70.710678"
+     height="70.710678"
+     class="bk"
+     id="rect6164-7"
+     transform="matrix(0.70710678,-0.70710679,0.70710678,0.70710679,0,0)" />
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6170-5"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#3c3c3c;fill-opacity:1"
+     transform="matrix(0.708879,-0.708879,0.708879,0.708879,174.10189,25.898114)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6172-0" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6174-0" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6178-9"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#5a5a5a;fill-opacity:1"
+     transform="matrix(1.0025063,0,0,1.0025063,184.08522,50)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.12s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6180-9" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.12s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6182-9" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6186-1"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#787878;fill-opacity:1"
+     transform="matrix(0.708879,0.708879,-0.708879,0.708879,174.10189,74.101886)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.25s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6188-5" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.25s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6190-5" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6194-7"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#969696;fill-opacity:1"
+     transform="matrix(0,1.0025063,-1.0025063,0,150,84.085215)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.37s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6196-6" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.37s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6198-9" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6202-0"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#b4b4b4;fill-opacity:1"
+     transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,125.89811,74.101886)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.5s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6204-8" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.5s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6206-3" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6210-4"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#d2d2d2;fill-opacity:1"
+     transform="matrix(-1.0025063,0,0,-1.0025063,115.91478,50)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.62s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6212-0" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.62s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6214-2" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6218-8"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#000000"
+     transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,125.89811,25.898114)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.75s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6220-0" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.75s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6222-1" />
+  </circle>
+  <circle
+     cx="0"
+     cy="0"
+     r="8"
+     id="circle6226-8"
+     d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="8"
+     sodipodi:ry="8"
+     style="fill:#1e1e1e;fill-opacity:1"
+     transform="matrix(0,-1.0025063,1.0025063,0,150,15.914785)">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0.1"
+       begin="0.87s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animate6228-6" />
+    <animateTransform
+       attributeName="transform"
+       type="scale"
+       from="1.5"
+       to="1"
+       begin="0.87s"
+       dur="1s"
+       repeatCount="indefinite"
+       id="animateTransform6230-1" />
+  </circle>
+  <g
+     id="g6802-3"
+     transform="matrix(0,-1,1,0,200,100)">
+    <rect
+       id="rect6164-5"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170-6"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178-2"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186-0"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190-1"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194-8"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198-98"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202-4"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204-87"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210-7"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218-0"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222-13"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230-6"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+  <g
+     id="g6802-36"
+     transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,350,120.71068)">
+    <rect
+       id="rect6164-2"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172-5"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178-7"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180-73"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182-1"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186-8"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188-52"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202-43"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204-5"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206-1"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210-1"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212-01"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218-02"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222-135"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226-5"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228-1"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+  <g
+     id="g6802-6"
+     transform="matrix(-1,0,0,-1,500,100)">
+    <rect
+       id="rect6164-6"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170-53"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174-86"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178-4"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182-0"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186-4"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194-2"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204-0"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206-0"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214-31"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218-6"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226-1"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228-88"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+  <g
+     id="g6802-6-9"
+     transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,620.71068,50)">
+    <rect
+       id="rect6164-6-4"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170-53-1"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172-4-5"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174-86-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178-4-5"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180-3-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182-0-6"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186-4-1"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188-3-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190-3-6"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194-2-5"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196-9-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198-7-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202-9-7"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204-0-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206-0-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210-9-6"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212-4-5"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214-31-1"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218-6-7"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220-2-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222-3-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226-1-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228-88-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230-3-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+  <g
+     id="g6802-6-2"
+     transform="matrix(0,1,-1,0,700,8.3901554e-8)">
+    <rect
+       id="rect6164-6-9"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170-53-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172-4-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174-86-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178-4-8"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180-3-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182-0-63"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186-4-9"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188-3-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190-3-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194-2-55"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196-9-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198-7-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202-9-2"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204-0-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206-0-6"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210-9-2"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212-4-57"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214-31-0"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218-6-2"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220-2-0"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222-3-8"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226-1-2"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228-88-6"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230-3-90"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+  <g
+     id="g6802-6-5"
+     transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,750,-20.710678)">
+    <rect
+       id="rect6164-6-3"
+       class="bk"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       style="fill:none" />
+    <circle
+       transform="matrix(1.0025063,0,0,1.0025063,84.085214,50)"
+       style="fill:#3c3c3c;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6170-53-94"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6172-4-54"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6174-86-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,0.708879,-0.708879,0.708879,74.101887,74.101887)"
+       style="fill:#5a5a5a;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6178-4-52"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6180-3-84"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6182-0-5"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.12s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,1.0025063,-1.0025063,0,50,84.085214)"
+       style="fill:#787878;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6186-4-7"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6188-3-2"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6190-3-0"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.25s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,0.708879,-0.708879,-0.708879,25.898113,74.101887)"
+       style="fill:#969696;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6194-2-58"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6196-9-3"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6198-7-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.37s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-1.0025063,0,0,-1.0025063,15.914786,50)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6202-9-6"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6204-0-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6206-0-4"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.5s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(-0.708879,-0.708879,0.708879,-0.708879,25.898113,25.898113)"
+       style="fill:#d2d2d2;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6210-9-5"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6212-4-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6214-31-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.62s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0,-1.0025063,1.0025063,0,50,15.914786)"
+       style="fill:#000000"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6218-6-5"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6220-2-5"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6222-3-9"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.75s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+    <circle
+       transform="matrix(0.708879,-0.708879,0.708879,0.708879,74.101887,25.898113)"
+       style="fill:#1e1e1e;fill-opacity:1"
+       sodipodi:ry="8"
+       sodipodi:rx="8"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       d="M 8,0 C 8,4.418278 4.418278,8 0,8 -4.418278,8 -8,4.418278 -8,0 c 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+       id="circle6226-1-1"
+       r="8"
+       cy="0"
+       cx="0">
+      <animate
+         id="animate6228-88-61"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="0.1"
+         from="1"
+         attributeName="opacity" />
+      <animateTransform
+         id="animateTransform6230-3-7"
+         repeatCount="indefinite"
+         dur="1s"
+         begin="0.87s"
+         to="1"
+         from="1.5"
+         type="scale"
+         attributeName="transform" />
+    </circle>
+  </g>
+</svg>
