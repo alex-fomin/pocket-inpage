@@ -62,7 +62,7 @@ require(['js/communicate', 'js/utils'], function(pocket, utils) {
       onclick: function(info, tab) {
         utils.startRotating(tab.id);
         pocket.add(info.linkUrl || info.pageUrl)
-        .then(stopRotating, stopRotating);
+        .then(utils.stopRotating, utils.stopRotating);
       }
     });
   
